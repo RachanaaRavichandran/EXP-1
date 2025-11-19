@@ -43,31 +43,41 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
- 
+a.   KVL:![alt text](<circuit p 3.jpg>)
+
+![alt text](<circuit p 4.jpg>)
+
+![alt text](<CIRCUIT 1.jpg>)
 
 
-b.  KCL:
+b.  KCL:![alt text](<circuit p 1.jpg>)
+
+![alt text](<circuit p 2.jpg>)
+
+
+![alt text](<CIRCUIT 2.jpg>)
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:![alt text](<calculation 1.jpg>)
  
 
 
-b.  KCL:
+b.  KCL:![alt text](<calculation 2.1-1.jpg>)
+
+![alt text](<calculation 2.2.jpg>)
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:![alt text](<tabulation 1.jpg>)
  
 
 
-b.  KCL:
+b.  KCL:![alt text](<tabulation 2.jpg>)
 
 
 
